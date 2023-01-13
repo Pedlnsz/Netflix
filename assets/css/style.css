@@ -43,7 +43,7 @@ body {
     border: none;
     background-color: #e50914;
     color: white;
-
+    cursor: pointer;
 }
 
 section {
@@ -66,7 +66,7 @@ section {
     border: none;
     background-color: #e50914;
     color: white;
-
+    cursor: pointer;
 
 }
 
